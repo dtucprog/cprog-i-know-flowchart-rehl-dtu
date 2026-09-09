@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="l4nVegoHQ9ZHw6XXefai">
+    <mxGraphModel dx="774" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rndpn8hUGKc5g12Dfshj-1" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="rndpn8hUGKc5g12Dfshj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-2" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Åben køleskab" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-4" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tæl vinflasker" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-11" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rndpn8hUGKc5g12Dfshj-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-15" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rndpn8hUGKc5g12Dfshj-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-12" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Indlæs antal flasker" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-18" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="rndpn8hUGKc5g12Dfshj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Antal til venner =antal flasker -1" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-20" edge="1" parent="1" source="rndpn8hUGKc5g12Dfshj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rndpn8hUGKc5g12Dfshj-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Fortæl venner antal af flasker tilbage" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="rndpn8hUGKc5g12Dfshj-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="slut" vertex="1">
+          <mxGeometry height="50" width="120" x="180" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

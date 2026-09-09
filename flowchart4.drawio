@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="815" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-8" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-4" value=" &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="start&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-9" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gå mod toilet" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RgtSEQqNq6ZE8e4JuMOu-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Aflæs om toilet er ootaget" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RgtSEQqNq6ZE8e4JuMOu-20" value="nej">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570.05" y="345.74" />
+              <mxPoint x="440.05" y="345.74" />
+            </Array>
+            <mxPoint x="449.32000000000016" y="345.69999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-27" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-15" value="ja">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Er toilet optaget?" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-30" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;" value="Brug toilet på tredje" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-31" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-20" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;" value="Brug toilet i nærdhed." vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="slut" vertex="1">
+          <mxGeometry height="50" width="80" x="30" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-32" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RgtSEQqNq6ZE8e4JuMOu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RgtSEQqNq6ZE8e4JuMOu-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgtSEQqNq6ZE8e4JuMOu-29" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gå tilbage til undervisning" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="265" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,1 +1,3 @@
-
+Spørgsmål_1: 1,3
+spørgsmål_2: 3,4,5
+spørgsmål_3: 1,2,3 og 4 skal bruges.
